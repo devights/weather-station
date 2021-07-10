@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# react + webpack
+bundles/
+webpack-stats.json
